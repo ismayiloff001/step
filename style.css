@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* header */
+.header-top {
+    height: 50px;
+    background-color: #333;
+}
+
+.contact a {
+    color: #fff;
+    font-size: 12px;
+}
+
+.contact a:hover {
+    color: goldenrod
+
+}
+
+.contact i {
+    color: white;
+    font-size: 20px;
+}
+
+.menu-a-items {
+    font-size: 13px;
+    color: black;
+}
+
+.flag{
+    margin-left:1.7em;
+}
+
+.language-ru{
+    list-style: none;
+    margin-left: 215px;
+}
+
+ .adress {
+    padding-right: 8.0rem!important;
+}
+
+.num{
+    padding-right: 6.5rem!important;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.text{
+    font-size: 16px;
+    text-decoration:none!important;
+    color: #fff;
+    white-space: nowrap;
+}
+
+/* // navbar */
+
+.text:hover{
+    color:#ffa31a;
+    
+}
+
+nav{
+    width: 100%;
+    background-color: rgb(39, 38, 38);
+}
